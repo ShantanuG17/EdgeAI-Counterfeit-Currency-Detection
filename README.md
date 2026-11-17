@@ -1,0 +1,2 @@
+# EdgeAI Counterfeit Currency Detection
+
