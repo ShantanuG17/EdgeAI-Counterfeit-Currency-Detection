@@ -120,13 +120,4 @@ The quantized model retained the same classification accuracy as the original mo
 
 The model inference time was reported to be below 1 millisecond on the ESP32-S3.
 
-## Repository Structure
-
-```text
-tinyml-currency-detection/
-│
-├── README.md
-│
-├── Arduino/
-│  
 
